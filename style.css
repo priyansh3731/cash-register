@@ -1,0 +1,12 @@
+*{
+
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 50vw;
+    margin-left: 28%;
+    background-color: rgb(129, 213, 129);
+}
+
