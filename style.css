@@ -7,13 +7,13 @@
 }
 
 :root {
-    --primary-color: #7c3aed;
+    --primary-color: #00aaff;
 }
 
 body {
     font-family: "Montserrat", sans-serif;
     min-width: 100vw;
-    background-color: #1f2937;
+    background: linear-gradient(to right, #00AAFF, #00FF6C);
     color:white
 }
 
